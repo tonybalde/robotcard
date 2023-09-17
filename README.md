@@ -14,7 +14,7 @@ This project is a part of the "The Odin Project" [curriculum](https://www.theodi
 ### Links
 
 - Repository URL: [View Code](https://github.com/tonybalde/robotcard)
-- Live Site URL: [Live Preview](https://)
+- Live Site URL: [Live Preview](https://robotcard-self.vercel.app/)
 
 ## My process
 
